@@ -1,5 +1,1644 @@
 [
   {
+    "name": "Администрация городского округа Мариуполь",
+    "type": "Администрация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Кольцов Антон Викторович",
+    "notes": "Глава администрации"
+  },
+  {
+    "name": "Администрация города Мариуполя (старая)",
+    "type": "Администрация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Панченко Наталья Валерьевна",
+    "notes": "Ликвидируется. Председатель ликвидационной комиссии"
+  },
+  {
+    "name": "Управа Жовтневого района",
+    "type": "Администрация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Кирьякулова Оксана Васильевна",
+    "notes": null
+  },
+  {
+    "name": "Управа Ильичевского района",
+    "type": "Администрация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Скударь Владимир Георгиевич",
+    "notes": null
+  },
+  {
+    "name": "Управа Орджоникидзевского района",
+    "type": "Администрация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Овсиенко Игорь Анатольевич",
+    "notes": null
+  },
+  {
+    "name": "Управа Приморского района",
+    "type": "Администрация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Голяка Елена Пантелеевна",
+    "notes": "И.о. руководителя"
+  },
+  {
+    "name": "Управление образования администрации",
+    "type": "Образование",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Узун Елена Валентиновна",
+    "notes": null
+  },
+  {
+    "name": "ГБОУ Средняя школа № 5",
+    "type": "Школа",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Фомичёва Ирина Васильевна",
+    "notes": null
+  },
+  {
+    "name": "ГБОУ Средняя школа № 7",
+    "type": "Школа",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Папазова Ольга Леонидовна",
+    "notes": null
+  },
+  {
+    "name": "ГБОУ Средняя школа № 8 им. В.С.Бойко",
+    "type": "Школа",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Корона Людмила Александровна",
+    "notes": null
+  },
+  {
+    "name": "ГБОУ Средняя школа № 9",
+    "type": "Школа",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Олексиюк Елена Ивановна",
+    "notes": null
+  },
+  {
+    "name": "ГБОУ Средняя школа № 14",
+    "type": "Школа",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Курявая Татьяна Дмитриевна",
+    "notes": null
+  },
+  {
+    "name": "ГБОУ Средняя школа № 19",
+    "type": "Школа",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Сирота Вера Александровна",
+    "notes": null
+  },
+  {
+    "name": "ГБОУ Средняя школа № 26",
+    "type": "Школа",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Чекурова Татьяна Анатольевна",
+    "notes": null
+  },
+  {
+    "name": "ГБОУ Средняя школа № 28",
+    "type": "Школа",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Решетняк Элла Дмитриевна",
+    "notes": null
+  },
+  {
+    "name": "ГБОУ Средняя школа № 33",
+    "type": "Школа",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Коноваленко Елена Анатольевна",
+    "notes": null
+  },
+  {
+    "name": "ГБОУ Средняя школа № 34",
+    "type": "Школа",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Устинов Роман Александрович",
+    "notes": null
+  },
+  {
+    "name": "ГБОУ Средняя школа № 38",
+    "type": "Школа",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Волошина Надежда Анатольевна",
+    "notes": null
+  },
+  {
+    "name": "ГБОУ Средняя школа № 47",
+    "type": "Школа",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Боруш Елена Михайловна",
+    "notes": null
+  },
+  {
+    "name": "ГБОУ Средняя школа № 58",
+    "type": "Школа",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Семененко Зоя Михайловна",
+    "notes": null
+  },
+  {
+    "name": "ГБОУ Средняя школа № 59",
+    "type": "Школа",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Майданова Анна Евгеньевна",
+    "notes": null
+  },
+  {
+    "name": "ГБОУ Средняя школа № 60",
+    "type": "Школа",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Здравков Сергей Георгиевич",
+    "notes": null
+  },
+  {
+    "name": "ГБОУ Средняя школа № 64",
+    "type": "Школа",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Топорикова Наталия Александровна",
+    "notes": null
+  },
+  {
+    "name": "ГБОУ Морской лицей",
+    "type": "Лицей",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Мирошниченко Вячеслав Сергеевич",
+    "notes": null
+  },
+  {
+    "name": "ГБОУ Средняя школа Невская им. Дзержинского",
+    "type": "Школа",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Бондарева Виктория Викторовна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 8 Микрулис",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Семиволос Татьяна Владимировна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 20 Калинка",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Саламатина Ольга Сергеевна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 21 Радуга",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Присяжная Валентина Павловна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 39 Капитошка",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Сукманова Наталья Сергеевна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 54 Колобок",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Бухало Анна Викторовна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 64 Кораблик",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Хара Наталья Вадленовна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 72 Весёлая планета",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Чепикова Татьяна Валериевна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 73 Орешек",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Васина Елена Олеговна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 83 Красная Шапочка",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Соловьева Наталия Леонидовна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 93 Зёрнышко",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Трошенкова Татьяна Васильевна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 98 Радуга",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Пашанина Ирина Ильинична",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 100 Лучик",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Уколова Ирина Александровна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 101 Журавушка",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Левтерова Ирина Васильевна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 102 Солнышко",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Турченко Юлия Владимировна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 106 Ивушка",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Шурдова Оксана Викторовна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 108 Рябинка",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Васенева Наталия Павловна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 114 Калиночка",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Иванченко Светлана Владимировна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 117 Юный моряк",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Тарубарова Наталья Николаевна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 125 Аленький цветочек",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Назаренко Светлана Васильевна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 131 Малыш",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Гришина Людмила Петровна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 140 Подснежник",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Тимошенко Елена Васильевна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 142 Умка",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Манько Елена Михайловна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 148 Ручеёк",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Золотоверх Ольга Ивановна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 150 Изюминка",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Шеханина Инна Анатольевна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 156 Дельфинёнок",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Гаврик Оксана Геннадиевна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 160 Родничок",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Варламова Анна Александровна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 163 Цветочек",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Мысан Юлия Геннадиевна",
+    "notes": null
+  },
+  {
+    "name": "Детский сад № 166 Диоскурия",
+    "type": "Детский сад",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Виноградова Яна Владимировна",
+    "notes": null
+  },
+  {
+    "name": "ГБУ Больница интенсивного лечения (БИЛ)",
+    "type": "Больница",
+    "address": "ул. 50 лет СССР, 46",
+    "lat": 47.1214,
+    "lng": 37.5598,
+    "phones": ["+7(949)621-81-21"],
+    "email": null,
+    "director": "Гавриляк Валентина Геннадьевна",
+    "notes": null
+  },
+  {
+    "name": "ГБУ Городская больница № 1",
+    "type": "Больница",
+    "address": "ул. Бодрова, 2",
+    "lat": 47.1157,
+    "lng": 37.5438,
+    "phones": [],
+    "email": null,
+    "director": "Мартюшев Евгений Евгеньевич",
+    "notes": "Ликвидируется"
+  },
+  {
+    "name": "ГБУ Городская больница № 2",
+    "type": "Больница",
+    "address": "ул. Пашковского, 36",
+    "lat": 47.0749,
+    "lng": 37.4365,
+    "phones": ["+7(949)734-79-86"],
+    "email": null,
+    "director": "Бунакова Светлана Николаевна",
+    "notes": null
+  },
+  {
+    "name": "ГБУ Городская больница № 8",
+    "type": "Больница",
+    "address": "б-р Приморский, 23",
+    "lat": 47.1029,
+    "lng": 37.5876,
+    "phones": ["+7(949)714-48-29"],
+    "email": null,
+    "director": "Андрианова Наталия Витальевна",
+    "notes": null
+  },
+  {
+    "name": "ГБУ Городская больница № 9",
+    "type": "Больница",
+    "address": "ул. Гагарина, 114/116",
+    "lat": 47.0914,
+    "lng": 37.5184,
+    "phones": [],
+    "email": null,
+    "director": "Хобби Надия Башар-Нуршановна",
+    "notes": "Ликвидируется"
+  },
+  {
+    "name": "ГБУ Больница скорой помощи (БСМП)",
+    "type": "Больница",
+    "address": "ул. Бахмутская, 20а",
+    "lat": 47.1175,
+    "lng": 37.5516,
+    "phones": [],
+    "email": null,
+    "director": "Пономарева Ирина Николаевна",
+    "notes": "Ликвидируется. И.о. главного врача"
+  },
+  {
+    "name": "ГБУ Центр охраны материнства и детства",
+    "type": "Роддом",
+    "address": "пр-кт Ленина, 80",
+    "lat": 47.0968,
+    "lng": 37.5505,
+    "phones": ["+7(949)734-79-70"],
+    "email": null,
+    "director": "Абезиванов Джамбулат Хасанович",
+    "notes": "Детская регистратура: +7(949)623-85-22"
+  },
+  {
+    "name": "ГБУ Онкологический диспансер",
+    "type": "Диспансер",
+    "address": "пр-кт Ленина, 80",
+    "lat": 47.0968,
+    "lng": 37.5505,
+    "phones": ["+7(949)719-15-66"],
+    "email": null,
+    "director": "Морозов Сергей Владимирович",
+    "notes": "И.о. главного врача"
+  },
+  {
+    "name": "ГБУ Станция переливания крови",
+    "type": "Больница",
+    "address": "ул. 50-летия СССР, 48",
+    "lat": 47.1211,
+    "lng": 37.5602,
+    "phones": ["+7(949)736-82-02"],
+    "email": null,
+    "director": "Клименко Елена Николаевна",
+    "notes": "Ликвидируется"
+  },
+  {
+    "name": "ГБУ ЦПМСП № 2",
+    "type": "Поликлиника",
+    "address": "ул. 50-летия СССР, 46а",
+    "lat": 47.1211,
+    "lng": 37.5602,
+    "phones": [],
+    "email": null,
+    "director": "Пояс Иван Александрович",
+    "notes": "Ликвидируется"
+  },
+  {
+    "name": "ГБУ ЦПМСП № 3",
+    "type": "Поликлиника",
+    "address": "пр-т Мира, 80",
+    "lat": 47.0948,
+    "lng": 37.5523,
+    "phones": [],
+    "email": null,
+    "director": "Кошевая Лариса Васильевна",
+    "notes": "Ликвидируется. И.о. главного врача"
+  },
+  {
+    "name": "ГБУ ЦПМСП № 5",
+    "type": "Поликлиника",
+    "address": "ул. 9 мая, 8",
+    "lat": 47.0754,
+    "lng": 37.4377,
+    "phones": [],
+    "email": null,
+    "director": "Журавлёв Сергей Александрович",
+    "notes": "Ликвидируется. И.о. главного врача"
+  },
+  {
+    "name": "МБУК Краеведческий музей",
+    "type": "Музей",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Божко Раиса Петровна",
+    "notes": null
+  },
+  {
+    "name": "МБУК Централизованная библиотечная система",
+    "type": "Библиотека",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Коряченко Юлия Сергеевна",
+    "notes": null
+  },
+  {
+    "name": "МБУК Дворец культуры Металлургов",
+    "type": "Дом культуры",
+    "address": "пр. Металлургов, 150",
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Аникеева Ирина Владимировна",
+    "notes": "По данным Википедии адрес: пр. Металлургов, 150 [citation:6]"
+  },
+  {
+    "name": "МБУК Дворец культуры Строителей",
+    "type": "Дом культуры",
+    "address": "пр-т Тульский, 13",
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Объедкова Татьяна Борисовна",
+    "notes": "Режим работы: пн-вс 8:00-20:00 [citation:10]"
+  },
+  {
+    "name": "МБУК Дворец культуры Чайка",
+    "type": "Дом культуры",
+    "address": "пр-т Лунина, 71",
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Мазур Валентина Леонидовна",
+    "notes": "Режим работы: пн-пт 10:00-19:00; сб-вс 10:00-17:45 [citation:10]"
+  },
+  {
+    "name": "МБУК Сартанский ДК им. Т. Кацы",
+    "type": "Дом культуры",
+    "address": "пгт Сартана, ул. Челюскинцев, 67",
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Мумуйдар Людмила Дмитриевна",
+    "notes": "И.о. директора"
+  },
+  {
+    "name": "МБУК Центр культуры и досуга пгт Старый Крым",
+    "type": "Дом культуры",
+    "address": "пгт Старый Крым, ул. Ленина, 64",
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Черница Татьяна Александровна",
+    "notes": null
+  },
+  {
+    "name": "МБУК Калиновский поселковый клуб",
+    "type": "Дом культуры",
+    "address": "п. Калиновка, ул. Подгорная, 175А",
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Зозуля Елена Викторовна",
+    "notes": "Режим работы: вт-сб 8:00-17:00 [citation:10]"
+  },
+  {
+    "name": "МБУК Талаковский центр культуры и досуга",
+    "type": "Дом культуры",
+    "address": "пгт Талаковка, ул. 20 Партсъезда, 33",
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": null,
+    "notes": "Режим работы: вт-сб 8:00-21:00 [citation:10]"
+  },
+  {
+    "name": "МБУК Сартанский музей истории греков Приазовья",
+    "type": "Музей",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Хараджа Инна Павловна",
+    "notes": null
+  },
+  {
+    "name": "Мариупольский художественный музей имени Куинджи",
+    "type": "Музей",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": null,
+    "notes": "По данным Википедии [citation:6]"
+  },
+  {
+    "name": "Выставочный зал имени Куинджи",
+    "type": "Музей",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": null,
+    "notes": "По данным Википедии [citation:6]"
+  },
+  {
+    "name": "Азовский морской музей имени В. А. Павлия",
+    "type": "Музей",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": null,
+    "notes": "По данным Википедии [citation:6]"
+  },
+  {
+    "name": "ДК Искра",
+    "type": "Дом культуры",
+    "address": "пр. Бойко, 143",
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": null,
+    "notes": "По данным Википедии [citation:6]"
+  },
+  {
+    "name": "ДК Маркохим",
+    "type": "Дом культуры",
+    "address": "пр. Металлургов, 52",
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": null,
+    "notes": "По данным Википедии [citation:6]"
+  },
+  {
+    "name": "Дворец детского и юношеского искусства (Дворец пионеров)",
+    "type": "Дом культуры",
+    "address": "пр. Металлургов, 19",
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": null,
+    "notes": "По данным Википедии [citation:6]"
+  },
+  {
+    "name": "МБУ ДО Детская школа искусств № 1",
+    "type": "Образование",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Соловьева Ирина Данииловна",
+    "notes": null
+  },
+  {
+    "name": "МБУ ДО Детская школа искусств № 2",
+    "type": "Образование",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Родионова Виктория Ивановна",
+    "notes": null
+  },
+  {
+    "name": "МБУ ДО Детская школа искусств № 3",
+    "type": "Образование",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Гах Лариса Николаевна",
+    "notes": null
+  },
+  {
+    "name": "МБУ ДО Детская школа искусств № 5",
+    "type": "Образование",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Главинковская Елена Юрьевна",
+    "notes": null
+  },
+  {
+    "name": "МБУ ДО Центральная детская школа искусств",
+    "type": "Образование",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Полторацкая Анна Владимировна",
+    "notes": null
+  },
+  {
+    "name": "МБУ ДО Мариупольский Дворец детского творчества",
+    "type": "Образование",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Акуленко Лариса Владимировна",
+    "notes": null
+  },
+  {
+    "name": "АНО Футбольный клуб Мариуполь",
+    "type": "Спортивный",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Жигиль Кирилл Викторович",
+    "notes": null
+  },
+  {
+    "name": "МОО Федерация футбола г. Мариуполь",
+    "type": "Спортивный",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Иващенко Иван Константинович",
+    "notes": null
+  },
+  {
+    "name": "МБУ ДО СШ Фаворит",
+    "type": "Спортивный",
+    "address": "ул. Евпаторийская, 56",
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": "kdushprometheus@yandex.ru",
+    "director": "Худолий Анна Сергеевна",
+    "notes": "По данным госуслуг [citation:3]"
+  },
+  {
+    "name": "МБУ ДО СШ Олимпия",
+    "type": "Спортивный",
+    "address": "ул. Волгоградская, 1",
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": "kdyusholimpia@yandex.ru",
+    "director": "Чигарев Евгений Владимирович",
+    "notes": "По данным госуслуг [citation:3]"
+  },
+  {
+    "name": "МБУ ДО СШ Атлетик",
+    "type": "Спортивный",
+    "address": "ул. Куприна, 9А",
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": "dushatletik@gmail.com",
+    "director": "Казанцев Владимир Григорьевич",
+    "notes": "По данным госуслуг [citation:3]"
+  },
+  {
+    "name": "МБУ ДО СШ Меотида",
+    "type": "Спортивный",
+    "address": "ул. Менжинского, 2А",
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": "sport.meotida@yandex.ru",
+    "director": null,
+    "notes": "По данным госуслуг [citation:3]"
+  },
+  {
+    "name": "МБУ СК Лидер",
+    "type": "Спортивный",
+    "address": "ул. Энгельса, 2",
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": "skazovets@yandex.ru",
+    "director": "Четвериков Дмитрий Викторович",
+    "notes": "По данным госуслуг [citation:3]"
+  },
+  {
+    "name": "МБУ ВСК Парус",
+    "type": "Спортивный",
+    "address": "б-р Приморский, 36",
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": "mbuvsk@yandex.ru",
+    "director": "Пустовалова Екатерина Николаевна",
+    "notes": "И.о. директора [citation:3]"
+  },
+  {
+    "name": "МБУ Мариупольский центр физздоровья Спорт для всех",
+    "type": "Спортивный",
+    "address": "ул. Энгельса, 35А",
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": "mbu.sportdlyavsekh@mail.ru",
+    "director": "Крикота Валерий Мефодьевич",
+    "notes": "По данным госуслуг [citation:3]"
+  },
+  {
+    "name": "Спортивный комплекс Ильичевец",
+    "type": "Спортивный",
+    "address": "ул. Мамина-Сибиряка, 10",
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "МУП Мариупольжилкомплекс",
+    "type": "Коммунальная служба",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Носенко Олег Григорьевич",
+    "notes": null
+  },
+  {
+    "name": "МУП Дирекция имущества",
+    "type": "Коммунальная служба",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Засульская Наталья Юрьевна",
+    "notes": null
+  },
+  {
+    "name": "МУП Коммунальник",
+    "type": "Коммунальная служба",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Коссе Марина Федоровна",
+    "notes": null
+  },
+  {
+    "name": "МКУ УК Жилсервис",
+    "type": "Коммунальная служба",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Симоненко Виталий Иванович",
+    "notes": null
+  },
+  {
+    "name": "МБУ Уютный город",
+    "type": "Коммунальная служба",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Секацкий Виктор Владимирович",
+    "notes": null
+  },
+  {
+    "name": "СМБУ Городская ритуальная служба",
+    "type": "Коммунальная служба",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Симоненко Юлия Евгеньевна",
+    "notes": null
+  },
+  {
+    "name": "МКУ Центр бюджетного учета и отчетности",
+    "type": "Коммунальная служба",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Бурская Елена Евгеньевна",
+    "notes": null
+  },
+  {
+    "name": "МКУ Центр обслуживания учреждений культуры",
+    "type": "Коммунальная служба",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Елкина Татьяна Александровна",
+    "notes": null
+  },
+  {
+    "name": "МКУ Централизованная бухгалтерия образования",
+    "type": "Коммунальная служба",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Ширалиева Людмила Юрьевна",
+    "notes": null
+  },
+  {
+    "name": "МКАУ Мариупольский центр хранения документации",
+    "type": "Коммунальная служба",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Левчук Ирина Николаевна",
+    "notes": null
+  },
+  {
+    "name": "Департамент капитального строительства",
+    "type": "Администрация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Мирошниченко Яна Сергеевна",
+    "notes": null
+  },
+  {
+    "name": "Департамент имущественных и земельных отношений",
+    "type": "Администрация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Ларченко Инна Владиславовна",
+    "notes": null
+  },
+  {
+    "name": "Отдел культуры администрации",
+    "type": "Администрация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Карпенко Елена Васильевна",
+    "notes": null
+  },
+  {
+    "name": "Отдел физкультуры и спорта",
+    "type": "Администрация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Кленин Борис Витальевич",
+    "notes": null
+  },
+  {
+    "name": "Управление ЖКХ",
+    "type": "Администрация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Дмитриев Александр Владимирович",
+    "notes": null
+  },
+  {
+    "name": "Управление промышленности, транспорта и связи",
+    "type": "Администрация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Береснев Дмитрий Васильевич",
+    "notes": "Ликвидатор"
+  },
+  {
+    "name": "Контрольно-счетная палата",
+    "type": "Администрация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Кононенко Татьяна Николаевна",
+    "notes": null
+  },
+  {
+    "name": "АНО Агентство развития Мариуполя",
+    "type": "Администрация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Бодягин Евгений Евгеньевич",
+    "notes": null
+  },
+  {
+    "name": "ФГКУ Санаторий Мариуполь ФТС России",
+    "type": "Санаторий",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Лохвич Анатолий Алексеевич",
+    "notes": "И.о. начальника"
+  },
+  {
+    "name": "ГУП Администрация морского порта г. Мариуполь",
+    "type": "Государственная служба",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Чепелев Дмитрий Владимирович",
+    "notes": "И.о. директора"
+  },
+  {
+    "name": "МРО Православный приход Свято-Николаевского кафедрального собора",
+    "type": "Религиозная организация",
+    "address": "Кальмиусская улица, 114",
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Зиновьев Алексей Анатольевич",
+    "notes": "Настоятель [citation:8]"
+  },
+  {
+    "name": "МРО Православный приход Свято-Михайловского храма",
+    "type": "Религиозная организация",
+    "address": "ул. Воинов-Освободителей, 4",
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Охременко Алексей Юрьевич",
+    "notes": "Настоятель [citation:8][citation:12]"
+  },
+  {
+    "name": "МРО Православный приход Свято-Покровского храма",
+    "type": "Религиозная организация",
+    "address": "Соборная улица",
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Чепель Вадим Николаевич",
+    "notes": "Настоятель [citation:8][citation:12]"
+  },
+  {
+    "name": "МРО Православный приход Свято-Николаевского храма",
+    "type": "Религиозная организация",
+    "address": "пр-т Нахимова, 37А",
+    "lat": null,
+    "lng": null,
+    "phones": ["+380 (629) 37-57-14"],
+    "email": null,
+    "director": "Марковский Владимир Николаевич",
+    "notes": "Настоятель [citation:8]"
+  },
+  {
+    "name": "МРО Православный приход Свято-Троицкого храма",
+    "type": "Религиозная организация",
+    "address": "Троицкая улица, 46",
+    "lat": null,
+    "lng": null,
+    "phones": ["+380 (629) 49-22-80", "+380 (97) 495-92-36"],
+    "email": null,
+    "director": "Попов Ян Эдуардович",
+    "notes": "Настоятель. Сайт: http://lampada.in.ua [citation:8]"
+  },
+  {
+    "name": "МРО Православный приход Свято-Владимирского храма",
+    "type": "Религиозная организация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Красулин Михаил Владимирович",
+    "notes": "Настоятель [citation:12]"
+  },
+  {
+    "name": "МРО Православный приход Свято-Успенского храма",
+    "type": "Религиозная организация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Кравченко Валерий Александрович",
+    "notes": "Настоятель [citation:12]"
+  },
+  {
+    "name": "МРО Православный приход Свято-Ильинского храма",
+    "type": "Религиозная организация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Кузнецов Михаил Юрьевич",
+    "notes": null
+  },
+  {
+    "name": "МРО Православный приход Свято-Амвросиевского храма",
+    "type": "Религиозная организация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Красулин Владимир Владимирович",
+    "notes": "Настоятель [citation:12]"
+  },
+  {
+    "name": "МРО Православный приход Свято-Преображенского храма",
+    "type": "Религиозная организация",
+    "address": "Отрадная улица, 22",
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Разинков Роман Владимирович",
+    "notes": "Настоятель [citation:8]"
+  },
+  {
+    "name": "МРО Православный приход Свято-Борисо-Глебского храма",
+    "type": "Религиозная организация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Головченко Виктор Александрович",
+    "notes": null
+  },
+  {
+    "name": "МРО Православный приход Свято-Серафимовского храма",
+    "type": "Религиозная организация",
+    "address": "Плотинная улица, 108А",
+    "lat": null,
+    "lng": null,
+    "phones": ["+380 (97) 707-88-77", "+380 (97) 024-05-59"],
+    "email": null,
+    "director": "Макаревич Владислав Андреевич",
+    "notes": "Настоятель. Режим работы: ежедневно, 7:00–16:00 [citation:4]"
+  },
+  {
+    "name": "МРО Православный приход храма Всех Святых",
+    "type": "Религиозная организация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Фомичёв Сергей Сергеевич",
+    "notes": null
+  },
+  {
+    "name": "МРО Православный приход храма св. мученицы Татианы",
+    "type": "Религиозная организация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Красулин Давид Михайлович",
+    "notes": null
+  },
+  {
+    "name": "МРО Православный приход храма св. мученика Харалампия",
+    "type": "Религиозная организация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Красулин Дмитрий Владимирович",
+    "notes": "Настоятель [citation:12]"
+  },
+  {
+    "name": "МРО Православный приход собора в честь Покрова Пресвятой Богородицы",
+    "type": "Религиозная организация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Агабеков Гариб Николаевич",
+    "notes": null
+  },
+  {
+    "name": "Мечеть Сулеймана и Роксоланы",
+    "type": "Религиозная организация",
+    "address": "пр-т Нахимова, 106",
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": null,
+    "notes": "По данным справочника [citation:8]"
+  },
+  {
+    "name": "Церковь Адвентистов Седьмого Дня",
+    "type": "Религиозная организация",
+    "address": "Николаевская улица, 28",
+    "lat": null,
+    "lng": null,
+    "phones": ["+380 (50) 274-13-99", "0 (800) 30-20-20"],
+    "email": null,
+    "director": null,
+    "notes": "Сайт: http://www.adventist.org.ua [citation:4][citation:8]"
+  },
+  {
+    "name": "Церковь Адвентистов Седьмого Дня",
+    "type": "Религиозная организация",
+    "address": "ул. Донецкая улица, 7",
+    "lat": null,
+    "lng": null,
+    "phones": ["+380 (63) 936-32-80", "0 (800) 30-20-20"],
+    "email": null,
+    "director": null,
+    "notes": "Сайт: http://www.adventist.org.ua [citation:4]"
+  },
+  {
+    "name": "Общество сознания Кришны",
+    "type": "Религиозная организация",
+    "address": "пр-т Мира, 1",
+    "lat": null,
+    "lng": null,
+    "phones": ["+380 (98) 103-59-35"],
+    "email": null,
+    "director": null,
+    "notes": "http://krishna-mariupol.org.ua [citation:4]"
+  },
+  {
+    "name": "Церковь Христова",
+    "type": "Религиозная организация",
+    "address": "Киевский переулок, 4",
+    "lat": null,
+    "lng": null,
+    "phones": ["+380 (629) 58-20-78"],
+    "email": null,
+    "director": null,
+    "notes": "Режим работы: вт-вс 10:00-18:00 [citation:8]"
+  },
+  {
+    "name": "Церковь Добрых перемен",
+    "type": "Религиозная организация",
+    "address": "Трамвайный переулок, 10",
+    "lat": null,
+    "lng": null,
+    "phones": ["+380 (96) 305-93-62"],
+    "email": null,
+    "director": null,
+    "notes": "Режим работы: пн-пт 08:00-17:00 [citation:8]"
+  },
+  {
+    "name": "Благая-Весть",
+    "type": "Религиозная организация",
+    "address": "Приазовский переулок, 8",
+    "lat": null,
+    "lng": null,
+    "phones": ["+380 (67) 649-66-13"],
+    "email": null,
+    "director": null,
+    "notes": "Режим работы: пн,вт,чт 18:00–20:00; вс 17:00–19:00 [citation:4]"
+  },
+  {
+    "name": "Церковь Адвентистов Седьмого Дня",
+    "type": "Религиозная организация",
+    "address": "бульвар Шевченко, 254",
+    "lat": null,
+    "lng": null,
+    "phones": ["+380 (93) 720-28-01", "0 (800) 30-20-20"],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "Христианская церковь Обновление",
+    "type": "Религиозная организация",
+    "address": "Московская улица, 59",
+    "lat": null,
+    "lng": null,
+    "phones": ["+380 (629) 23-50-22"],
+    "email": null,
+    "director": null,
+    "notes": "Режим работы: ежедневно, 8:00–20:00 [citation:4]"
+  },
+  {
+    "name": "Общество сознания Кришны",
+    "type": "Религиозная организация",
+    "address": "пр-т Мира, 1",
+    "lat": null,
+    "lng": null,
+    "phones": ["+380 (98) 103-59-35"],
+    "email": null,
+    "director": null,
+    "notes": "http://krishna-mariupol.org.ua [citation:4]"
+  },
+  {
+    "name": "МОО Национально-культурная автономия греков г. Мариуполя",
+    "type": "Общественная организация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Белая Наталия Ивановна",
+    "notes": "Председатель"
+  },
+  {
+    "name": "МОО Греков г. Мариуполя",
+    "type": "Общественная организация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Белая Наталия Ивановна",
+    "notes": "Председатель"
+  },
+  {
+    "name": "МОО Общество цветоводов Подснежник",
+    "type": "Общественная организация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Миронова Елена Павловна",
+    "notes": "Председатель"
+  },
+  {
+    "name": "МО ДОСААФ России г. Мариуполя",
+    "type": "Общественная организация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Пастухов Сергей Алексеевич",
+    "notes": "Председатель"
+  },
+  {
+    "name": "Профсоюзная организация работников образования",
+    "type": "Общественная организация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Дейнес Виталий Геннадьевич",
+    "notes": "Председатель"
+  },
+  {
+    "name": "Первичная профсоюзная организация Администрация морского порта",
+    "type": "Общественная организация",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": "Ткаченко Александр Юрьевич",
+    "notes": "Председатель"
+  },
+  {
     "name": "Прокуратура города Мариуполя",
     "type": "Прокуратура",
     "address": "ул. Университетская, 6",
@@ -7,6 +1646,7 @@
     "lng": 37.5495,
     "phones": ["+7(949)489-81-88"],
     "email": "grp16@gpdnr.su",
+    "director": null,
     "notes": null
   },
   {
@@ -17,6 +1657,7 @@
     "lng": 37.5484,
     "phones": ["+7(949)628-17-38"],
     "email": "dch_dnr@sledcom.ru",
+    "director": null,
     "notes": null
   },
   {
@@ -27,6 +1668,7 @@
     "lng": 37.5352,
     "phones": ["+7(949)526-92-12"],
     "email": null,
+    "director": null,
     "notes": null
   },
   {
@@ -37,6 +1679,7 @@
     "lng": 37.4634,
     "phones": ["+7(949)526-92-13"],
     "email": null,
+    "director": null,
     "notes": null
   },
   {
@@ -47,6 +1690,7 @@
     "lng": 37.5573,
     "phones": ["+7(949)526-92-14"],
     "email": null,
+    "director": null,
     "notes": null
   },
   {
@@ -57,6 +1701,7 @@
     "lng": 37.5829,
     "phones": ["+7(949)526-92-16"],
     "email": null,
+    "director": null,
     "notes": null
   },
   {
@@ -67,6 +1712,7 @@
     "lng": 37.5829,
     "phones": ["+7(949)526-92-11"],
     "email": null,
+    "director": null,
     "notes": null
   },
   {
@@ -77,266 +1723,7 @@
     "lng": 37.5588,
     "phones": [],
     "email": null,
-    "notes": null
-  },
-  {
-    "name": "Середенко Ольга Анатольевна",
-    "type": "Нотариус",
-    "address": "пр. Строителей, 92",
-    "lat": 47.1025,
-    "lng": 37.5242,
-    "phones": ["+7(949)628-39-16"],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "Бодягина Инесса Игоревна",
-    "type": "Нотариус",
-    "address": "пр. Мира, 63/2",
-    "lat": 47.0948,
-    "lng": 37.5537,
-    "phones": ["+7(949)708-47-21"],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "Одерий Антон Степанович",
-    "type": "Нотариус",
-    "address": "ул. Казанцева, 22",
-    "lat": 47.1104,
-    "lng": 37.5634,
-    "phones": [],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "Кудлаев Александр Александрович",
-    "type": "Нотариус",
-    "address": "пр. Металлургов, 84а",
-    "lat": 47.1075,
-    "lng": 37.5860,
-    "phones": ["+7(949)726-39-11"],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "Пятовский Алексей Александрович",
-    "type": "Нотариус",
-    "address": "пр. Ленина, 62",
-    "lat": 47.0962,
-    "lng": 37.5466,
-    "phones": ["+7(949)754-51-05"],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "Гичкин Антон Владимирович",
-    "type": "Нотариус",
-    "address": "ул. Земская, 64",
-    "lat": 47.0955,
-    "lng": 37.5632,
-    "phones": ["+7(949)710-92-73"],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "Ласточкина Светлана Викторовна",
-    "type": "Нотариус",
-    "address": null,
-    "lat": null,
-    "lng": null,
-    "phones": ["+7(949)732-89-73"],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "Луценко Светлана Ивановна",
-    "type": "Нотариус",
-    "address": null,
-    "lat": null,
-    "lng": null,
-    "phones": ["+7(949)599-55-29"],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "Никоненко Татьяна Васильевна",
-    "type": "Нотариус",
-    "address": "пр. Победы, 77",
-    "lat": 47.0962,
-    "lng": 37.5153,
-    "phones": ["+7(906)185-38-23"],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "Турченко Татьяна Павловна",
-    "type": "Нотариус",
-    "address": null,
-    "lat": null,
-    "lng": null,
-    "phones": ["+7(949)729-82-55"],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "Орехов Михаил Владимирович",
-    "type": "Адвокат",
-    "address": "пр. Ленина, 63/2 (вход со двора, напротив Драмтеатра)",
-    "lat": 47.0952,
-    "lng": 37.5460,
-    "phones": ["+7(949)742-00-75"],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "ГБУ Больница интенсивного лечения г. Мариуполя",
-    "type": "Больница",
-    "address": "ул. 50-летия СССР, 46",
-    "lat": 47.1214,
-    "lng": 37.5598,
-    "phones": [],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "ГБУ Больница скорой медицинской помощи г. Мариуполя",
-    "type": "Больница",
-    "address": "ул. Бахмутская, 20а",
-    "lat": 47.1175,
-    "lng": 37.5516,
-    "phones": [],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "ГБУ Центр ПМСП №2 г. Мариуполя",
-    "type": "Поликлиника",
-    "address": "ул. 50-летия СССР, 46а",
-    "lat": 47.1211,
-    "lng": 37.5602,
-    "phones": [],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "ГБУ Центр ПМСП №3 г. Мариуполя",
-    "type": "Поликлиника",
-    "address": "пр-т Мира, 80",
-    "lat": 47.0948,
-    "lng": 37.5523,
-    "phones": [],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "ГБУ Центр ПМСП №5 г. Мариуполя (Амбулатория №6)",
-    "type": "Поликлиника",
-    "address": "ул. 9 Мая, 8",
-    "lat": 47.0754,
-    "lng": 37.4377,
-    "phones": [],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "ГБУ Городская больница №2 г. Мариуполя",
-    "type": "Больница",
-    "address": "ул. Пашковского, 36",
-    "lat": 47.0749,
-    "lng": 37.4365,
-    "phones": [],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "Судмедэксперты (горячая линия)",
-    "type": "Судмедэкспертиза",
-    "address": null,
-    "lat": null,
-    "lng": null,
-    "phones": ["+7(949)599-70-82", "+7(949)599-70-72"],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "МЧС",
-    "type": "Пожарные",
-    "address": null,
-    "lat": null,
-    "lng": null,
-    "phones": ["101"],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "Полиция",
-    "type": "Полиция",
-    "address": null,
-    "lat": null,
-    "lng": null,
-    "phones": ["102"],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "Скорая медицинская помощь",
-    "type": "Скорая",
-    "address": null,
-    "lat": null,
-    "lng": null,
-    "phones": ["103"],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "Водоканал",
-    "type": "Коммунальная служба",
-    "address": "ул. Варганова, 7",
-    "lat": 47.0917,
-    "lng": 37.5715,
-    "phones": ["+7(949)331-76-04"],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "РЭС",
-    "type": "Коммунальная служба",
-    "address": "ул. Войнич, 2",
-    "lat": 47.1158,
-    "lng": 37.5452,
-    "phones": [],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "МариВет 1",
-    "type": "Ветеринарная клиника",
-    "address": "ул. Артема, 83",
-    "lat": 47.1038,
-    "lng": 37.5585,
-    "phones": ["+7(949)027-52-33"],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "МариВет 2",
-    "type": "Ветеринарная клиника",
-    "address": "ул. 60 лет СССР, 15",
-    "lat": 47.1083,
-    "lng": 37.5819,
-    "phones": ["+7(949)094-85-28"],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "МариВет 3",
-    "type": "Ветеринарная клиника",
-    "address": "пр. Металлургов, 219",
-    "lat": 47.1175,
-    "lng": 37.6009,
-    "phones": ["+7(949)021-35-19"],
-    "email": null,
+    "director": null,
     "notes": null
   },
   {
@@ -347,6 +1734,7 @@
     "lng": null,
     "phones": [],
     "email": null,
+    "director": null,
     "notes": null
   },
   {
@@ -357,6 +1745,7 @@
     "lng": null,
     "phones": ["104"],
     "email": null,
+    "director": null,
     "notes": null
   },
   {
@@ -367,6 +1756,7 @@
     "lng": null,
     "phones": ["112"],
     "email": null,
+    "director": null,
     "notes": "Единая дежурно-диспетчерская служба"
   },
   {
@@ -377,6 +1767,7 @@
     "lng": null,
     "phones": [],
     "email": null,
+    "director": null,
     "notes": null
   },
   {
@@ -387,6 +1778,7 @@
     "lng": 37.5501,
     "phones": [],
     "email": null,
+    "director": null,
     "notes": null
   },
   {
@@ -397,6 +1789,7 @@
     "lng": 37.5486,
     "phones": [],
     "email": null,
+    "director": null,
     "notes": null
   },
   {
@@ -407,46 +1800,7 @@
     "lng": 37.5509,
     "phones": [],
     "email": null,
-    "notes": null
-  },
-  {
-    "name": "Спортивный комплекс Ильичевец",
-    "type": "Спортивный",
-    "address": "ул. Мамина-Сибиряка, 10",
-    "lat": 47.1157,
-    "lng": 37.6214,
-    "phones": [],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "Салон связи (пример)",
-    "type": "Связь",
-    "address": null,
-    "lat": null,
-    "lng": null,
-    "phones": [],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "Сервисный центр (пример)",
-    "type": "Сервис",
-    "address": null,
-    "lat": null,
-    "lng": null,
-    "phones": [],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "Торговый центр (пример)",
-    "type": "ТЦ",
-    "address": null,
-    "lat": null,
-    "lng": null,
-    "phones": [],
-    "email": null,
+    "director": null,
     "notes": null
   },
   {
@@ -457,6 +1811,7 @@
     "lng": 37.5621,
     "phones": [],
     "email": null,
+    "director": null,
     "notes": null
   },
   {
@@ -467,6 +1822,7 @@
     "lng": 37.5482,
     "phones": [],
     "email": null,
+    "director": null,
     "notes": null
   },
   {
@@ -477,6 +1833,7 @@
     "lng": 37.5501,
     "phones": [],
     "email": null,
+    "director": null,
     "notes": null
   },
   {
@@ -487,6 +1844,7 @@
     "lng": null,
     "phones": [],
     "email": null,
+    "director": null,
     "notes": null
   },
   {
@@ -497,6 +1855,7 @@
     "lng": 37.5562,
     "phones": [],
     "email": null,
+    "director": null,
     "notes": null
   },
   {
@@ -507,6 +1866,7 @@
     "lng": null,
     "phones": [],
     "email": null,
+    "director": null,
     "notes": null
   },
   {
@@ -517,6 +1877,7 @@
     "lng": 37.5480,
     "phones": [],
     "email": null,
+    "director": null,
     "notes": null
   },
   {
@@ -527,56 +1888,7 @@
     "lng": 37.5580,
     "phones": [],
     "email": null,
-    "notes": null
-  },
-  {
-    "name": "Лицей (пример)",
-    "type": "Лицей",
-    "address": null,
-    "lat": null,
-    "lng": null,
-    "phones": [],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "Гимназия (пример)",
-    "type": "Гимназия",
-    "address": null,
-    "lat": null,
-    "lng": null,
-    "phones": [],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "Колледж (пример)",
-    "type": "Колледж",
-    "address": null,
-    "lat": null,
-    "lng": null,
-    "phones": [],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "ВУЗ (пример)",
-    "type": "ВУЗ",
-    "address": null,
-    "lat": null,
-    "lng": null,
-    "phones": [],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "Управление образования Мариуполя",
-    "type": "Образование",
-    "address": "ул. Соборная, 18",
-    "lat": 47.0959,
-    "lng": 37.5621,
-    "phones": [],
-    "email": null,
+    "director": null,
     "notes": null
   },
   {
@@ -587,46 +1899,7 @@
     "lng": 37.5337,
     "phones": [],
     "email": null,
-    "notes": null
-  },
-  {
-    "name": "Банк (пример)",
-    "type": "Банк",
-    "address": null,
-    "lat": null,
-    "lng": null,
-    "phones": [],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "Школа (пример)",
-    "type": "Школа",
-    "address": null,
-    "lat": null,
-    "lng": null,
-    "phones": [],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "Озон (пункт выдачи)",
-    "type": "Озон",
-    "address": null,
-    "lat": null,
-    "lng": null,
-    "phones": [],
-    "email": null,
-    "notes": null
-  },
-  {
-    "name": "Супермаркет (пример)",
-    "type": "Супермаркеты",
-    "address": null,
-    "lat": null,
-    "lng": null,
-    "phones": [],
-    "email": null,
+    "director": null,
     "notes": null
   },
   {
@@ -637,6 +1910,304 @@
     "lng": 37.5482,
     "phones": [],
     "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "Середенко Ольга Анатольевна",
+    "type": "Нотариус",
+    "address": "пр. Строителей, 92",
+    "lat": 47.1025,
+    "lng": 37.5242,
+    "phones": ["+7(949)628-39-16"],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "Бодягина Инесса Игоревна",
+    "type": "Нотариус",
+    "address": "пр. Мира, 63/2",
+    "lat": 47.0948,
+    "lng": 37.5537,
+    "phones": ["+7(949)708-47-21"],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "Одерий Антон Степанович",
+    "type": "Нотариус",
+    "address": "ул. Казанцева, 22",
+    "lat": 47.1104,
+    "lng": 37.5634,
+    "phones": [],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "Кудлаев Александр Александрович",
+    "type": "Нотариус",
+    "address": "пр. Металлургов, 84а",
+    "lat": 47.1075,
+    "lng": 37.5860,
+    "phones": ["+7(949)726-39-11"],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "Пятовский Алексей Александрович",
+    "type": "Нотариус",
+    "address": "пр. Ленина, 62",
+    "lat": 47.0962,
+    "lng": 37.5466,
+    "phones": ["+7(949)754-51-05"],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "Гичкин Антон Владимирович",
+    "type": "Нотариус",
+    "address": "ул. Земская, 64",
+    "lat": 47.0955,
+    "lng": 37.5632,
+    "phones": ["+7(949)710-92-73"],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "Ласточкина Светлана Викторовна",
+    "type": "Нотариус",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": ["+7(949)732-89-73"],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "Луценко Светлана Ивановна",
+    "type": "Нотариус",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": ["+7(949)599-55-29"],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "Никоненко Татьяна Васильевна",
+    "type": "Нотариус",
+    "address": "пр. Победы, 77",
+    "lat": 47.0962,
+    "lng": 37.5153,
+    "phones": ["+7(906)185-38-23"],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "Турченко Татьяна Павловна",
+    "type": "Нотариус",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": ["+7(949)729-82-55"],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "Орехов Михаил Владимирович",
+    "type": "Адвокат",
+    "address": "пр. Ленина, 63/2 (вход со двора, напротив Драмтеатра)",
+    "lat": 47.0952,
+    "lng": 37.5460,
+    "phones": ["+7(949)742-00-75"],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "Судмедэксперты (горячая линия)",
+    "type": "Судмедэкспертиза",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": ["+7(949)599-70-82", "+7(949)599-70-72"],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "МЧС",
+    "type": "Пожарные",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": ["101"],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "Полиция",
+    "type": "Полиция",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": ["102"],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "Скорая медицинская помощь",
+    "type": "Скорая",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": ["103"],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "Водоканал",
+    "type": "Коммунальная служба",
+    "address": "ул. Варганова, 7",
+    "lat": 47.0917,
+    "lng": 37.5715,
+    "phones": ["+7(949)331-76-04"],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "РЭС",
+    "type": "Коммунальная служба",
+    "address": "ул. Войнич, 2",
+    "lat": 47.1158,
+    "lng": 37.5452,
+    "phones": [],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "МариВет 1",
+    "type": "Ветеринарная клиника",
+    "address": "ул. Артема, 83",
+    "lat": 47.1038,
+    "lng": 37.5585,
+    "phones": ["+7(949)027-52-33"],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "МариВет 2",
+    "type": "Ветеринарная клиника",
+    "address": "ул. 60 лет СССР, 15",
+    "lat": 47.1083,
+    "lng": 37.5819,
+    "phones": ["+7(949)094-85-28"],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "МариВет 3",
+    "type": "Ветеринарная клиника",
+    "address": "пр. Металлургов, 219",
+    "lat": 47.1175,
+    "lng": 37.6009,
+    "phones": ["+7(949)021-35-19"],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "Салон связи (пример)",
+    "type": "Связь",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "Сервисный центр (пример)",
+    "type": "Сервис",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "Торговый центр (пример)",
+    "type": "ТЦ",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "Банк (пример)",
+    "type": "Банк",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "Школа (пример)",
+    "type": "Школа",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "Озон (пункт выдачи)",
+    "type": "Озон",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": null,
+    "notes": null
+  },
+  {
+    "name": "Супермаркет (пример)",
+    "type": "Супермаркеты",
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "phones": [],
+    "email": null,
+    "director": null,
     "notes": null
   },
   {
@@ -647,6 +2218,7 @@
     "lng": null,
     "phones": [],
     "email": null,
+    "director": null,
     "notes": null
   },
   {
@@ -657,6 +2229,7 @@
     "lng": null,
     "phones": [],
     "email": null,
+    "director": null,
     "notes": null
   },
   {
@@ -667,6 +2240,7 @@
     "lng": null,
     "phones": [],
     "email": null,
+    "director": null,
     "notes": null
   }
 ]
